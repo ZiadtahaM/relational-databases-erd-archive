@@ -1,0 +1,5043 @@
+{
+    "serializedTypes": [],
+    "typesInScenes": [
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Object",
+            "fullManagedTypeName": "UnityEngine.Object",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "EditorExtension",
+            "fullManagedTypeName": "",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "NamedObject",
+            "fullManagedTypeName": "",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Texture",
+            "fullManagedTypeName": "UnityEngine.Texture",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "MonoScript",
+            "fullManagedTypeName": "UnityEditor.MonoScript",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Material",
+            "fullManagedTypeName": "UnityEngine.Material",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Texture2D",
+            "fullManagedTypeName": "UnityEngine.Texture2D",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Sprite",
+            "fullManagedTypeName": "UnityEngine.Sprite",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "GlobalGameManager",
+            "fullManagedTypeName": "",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "StreamingManager",
+            "fullManagedTypeName": "",
+            "moduleName": "Streaming",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "GameManager",
+            "fullManagedTypeName": "",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "VFXManager",
+            "fullManagedTypeName": "UnityEditor.VFXManager",
+            "moduleName": "VFX",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Shader",
+            "fullManagedTypeName": "UnityEngine.Shader",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AudioManager",
+            "fullManagedTypeName": "UnityEditor.AudioManager",
+            "moduleName": "Audio",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "ShaderVariantCollection",
+            "fullManagedTypeName": "UnityEngine.ShaderVariantCollection",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "BuildSettings",
+            "fullManagedTypeName": "",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "PlayerSettings",
+            "fullManagedTypeName": "UnityEditor.PlayerSettings",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "TextAsset",
+            "fullManagedTypeName": "UnityEngine.TextAsset",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "PhysicsManager",
+            "fullManagedTypeName": "UnityEditor.PhysicsManager",
+            "moduleName": "Physics",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "TimeManager",
+            "fullManagedTypeName": "UnityEditor.TimeManager",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "InputManager",
+            "fullManagedTypeName": "UnityEditor.InputManager",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "TagManager",
+            "fullManagedTypeName": "UnityEditor.TagManager",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "MonoManager",
+            "fullManagedTypeName": "UnityEditor.MonoManager",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "GraphicsSettings",
+            "fullManagedTypeName": "UnityEngine.Rendering.GraphicsSettings",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "DelayedCallManager",
+            "fullManagedTypeName": "",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "QualitySettings",
+            "fullManagedTypeName": "UnityEngine.QualitySettings",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "RuntimeInitializeOnLoadManager",
+            "fullManagedTypeName": "",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "ResourceManager",
+            "fullManagedTypeName": "",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "ScriptMapper",
+            "fullManagedTypeName": "",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "NavMeshProjectSettings",
+            "fullManagedTypeName": "",
+            "moduleName": "AI",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Physics2DSettings",
+            "fullManagedTypeName": "UnityEditor.Physics2DSettings",
+            "moduleName": "Physics2D",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Transform",
+            "fullManagedTypeName": "UnityEngine.Transform",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Animation",
+            "fullManagedTypeName": "UnityEngine.Animation",
+            "moduleName": "Animation",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AnimationClip",
+            "fullManagedTypeName": "UnityEngine.AnimationClip",
+            "moduleName": "Animation",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Camera",
+            "fullManagedTypeName": "UnityEngine.Camera",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Renderer",
+            "fullManagedTypeName": "UnityEngine.Renderer",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "MeshFilter",
+            "fullManagedTypeName": "UnityEngine.MeshFilter",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "MeshRenderer",
+            "fullManagedTypeName": "UnityEngine.MeshRenderer",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AudioBehaviour",
+            "fullManagedTypeName": "UnityEngine.AudioBehaviour",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AudioListener",
+            "fullManagedTypeName": "UnityEngine.AudioListener",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Collider",
+            "fullManagedTypeName": "UnityEngine.Collider",
+            "moduleName": "Physics",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "SphereCollider",
+            "fullManagedTypeName": "UnityEngine.SphereCollider",
+            "moduleName": "Physics",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "TextMesh",
+            "fullManagedTypeName": "UnityEngine.TextMesh",
+            "moduleName": "TextRendering",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Canvas",
+            "fullManagedTypeName": "UnityEngine.Canvas",
+            "moduleName": "UI",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "RectTransform",
+            "fullManagedTypeName": "UnityEngine.RectTransform",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Motion",
+            "fullManagedTypeName": "UnityEngine.Motion",
+            "moduleName": "Animation",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "RuntimeAnimatorController",
+            "fullManagedTypeName": "UnityEngine.RuntimeAnimatorController",
+            "moduleName": "Animation",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Behaviour",
+            "fullManagedTypeName": "UnityEngine.Behaviour",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Animator",
+            "fullManagedTypeName": "UnityEngine.Animator",
+            "moduleName": "Animation",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Component",
+            "fullManagedTypeName": "UnityEngine.Component",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "MonoBehaviour",
+            "fullManagedTypeName": "UnityEngine.MonoBehaviour",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AnimatorController",
+            "fullManagedTypeName": "UnityEditor.Animations.AnimatorController",
+            "moduleName": "Animation",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "GameObject",
+            "fullManagedTypeName": "UnityEngine.GameObject",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "LightmapSettings",
+            "fullManagedTypeName": "UnityEngine.LightmapSettings",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Font",
+            "fullManagedTypeName": "UnityEngine.Font",
+            "moduleName": "TextRendering",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Mesh",
+            "fullManagedTypeName": "UnityEngine.Mesh",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "CanvasRenderer",
+            "fullManagedTypeName": "UnityEngine.CanvasRenderer",
+            "moduleName": "UI",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "CanvasGroup",
+            "fullManagedTypeName": "UnityEngine.CanvasGroup",
+            "moduleName": "UI",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "ComputeShader",
+            "fullManagedTypeName": "UnityEngine.ComputeShader",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AudioClip",
+            "fullManagedTypeName": "UnityEngine.AudioClip",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "SampleClip",
+            "fullManagedTypeName": "",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "RenderSettings",
+            "fullManagedTypeName": "UnityEngine.RenderSettings",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "NavMeshSettings",
+            "fullManagedTypeName": "",
+            "moduleName": "AI",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "LevelGameManager",
+            "fullManagedTypeName": "",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Core/Scenes/preloader.unity",
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "TrailRenderer",
+            "fullManagedTypeName": "UnityEngine.TrailRenderer",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "LineRenderer",
+            "fullManagedTypeName": "UnityEngine.LineRenderer",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Light",
+            "fullManagedTypeName": "UnityEngine.Light",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "SkinnedMeshRenderer",
+            "fullManagedTypeName": "UnityEngine.SkinnedMeshRenderer",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AudioSource",
+            "fullManagedTypeName": "UnityEngine.AudioSource",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AudioLowPassFilter",
+            "fullManagedTypeName": "UnityEngine.AudioLowPassFilter",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AudioHighPassFilter",
+            "fullManagedTypeName": "UnityEngine.AudioHighPassFilter",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AudioDistortionFilter",
+            "fullManagedTypeName": "UnityEngine.AudioDistortionFilter",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "ParticleSystem",
+            "fullManagedTypeName": "UnityEngine.ParticleSystem",
+            "moduleName": "ParticleSystem",
+            "usedInScenes": [
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "ParticleSystemRenderer",
+            "fullManagedTypeName": "UnityEngine.ParticleSystemRenderer",
+            "moduleName": "ParticleSystem",
+            "usedInScenes": [
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "ParticleSystemForceField",
+            "fullManagedTypeName": "UnityEngine.ParticleSystemForceField",
+            "moduleName": "ParticleSystem",
+            "usedInScenes": [
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Rigidbody",
+            "fullManagedTypeName": "UnityEngine.Rigidbody",
+            "moduleName": "Physics",
+            "usedInScenes": [
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "MeshCollider",
+            "fullManagedTypeName": "UnityEngine.MeshCollider",
+            "moduleName": "Physics",
+            "usedInScenes": [
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "CapsuleCollider",
+            "fullManagedTypeName": "UnityEngine.CapsuleCollider",
+            "moduleName": "Physics",
+            "usedInScenes": [
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "BoxCollider",
+            "fullManagedTypeName": "UnityEngine.BoxCollider",
+            "moduleName": "Physics",
+            "usedInScenes": [
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Avatar",
+            "fullManagedTypeName": "UnityEngine.Avatar",
+            "moduleName": "Animation",
+            "usedInScenes": [
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "RenderTexture",
+            "fullManagedTypeName": "UnityEngine.RenderTexture",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AudioMixerGroup",
+            "fullManagedTypeName": "UnityEngine.Audio.AudioMixerGroup",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AudioFilter",
+            "fullManagedTypeName": "UnityEngine.Behaviour",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AudioMixer",
+            "fullManagedTypeName": "UnityEngine.Audio.AudioMixer",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AudioMixerSnapshot",
+            "fullManagedTypeName": "UnityEngine.Audio.AudioMixerSnapshot",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/Core/Scenes/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "AIFlyerControls",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Achievement",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "AchievementTracker",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "AddCameraDepth",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "AirShipControl",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "AmbientAudio",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "AmforaSound",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "AmmoChargeBall",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "AmmoManagement",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Animationsounds",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "AnimationsoundsPlayer",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ArgonFortress",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Attach2Parent",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Attractor",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "AtuinScrpt",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "AtusFollyManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "AudioFader",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "AudioPuzzleScript",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "AutoFireControls",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "BasicFlyerMovement",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "BattleMap",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "BattleTrain",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "BattlemapView",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "BeetleAnimator",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "BirdStats",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "CameraInterlace",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "CameraOrbit",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Campaign",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "CaptureScreenshot",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ChangeShadowCasting",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Cheats",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "CinematicDialogueManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "CinematicInterruption",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "CinematicSharedMaterialColorer",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Class",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ClothDamage",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "CloudGenerator",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "CloudItem",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ColliderOptimization",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "CollisionAvoidance",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "CollisionResponse",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "CombatBanter",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "CombatRouteContainer",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ControllerBindings",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Copy",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "CreateNPCInstances",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "CreatureAttackAnimationController",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Crossfader",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "CustomSceneReloader",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "DLCObject",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "DamageReceiver",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "DamageSystem",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "DarkCloudThunder",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Deactivate",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "DeathExplosionFX",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Deathzone",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "DescrptionContainer",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "DestructibleComponent",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Dialogue",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "DropAbleObject",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "DumbFire",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ExplodingItem",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "FIMSpace.FTail.FTail_Animator",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "FIMSpace.FTail.delayedEnable",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Faction",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "FactionID",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "FadeInOnActivate",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Falcon",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "FeatherRustleFX",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "FlexibleLink",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Floater",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "FlyerSchool",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "FlyerUpdraft",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "FontSetter",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "FontsizeFromMapViewScale",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Fort",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Fortress",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Furball",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "GUITargetLock",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "GUI_Ammo",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "GUI_Compass",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "GerstnerDisplace",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "GuiObject",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "HeightDependendVolume",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "HeightLimit",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "HermitGunRotator",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "I2.Loc.LanguageSourceAsset",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "I2.Loc.Localize",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "I2.Loc.LocalizeTarget_UnityStandard_TextMesh",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "I2.Loc.SetLanguage",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Inputs",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "InteractorSelfPlacer",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ItemAnchor",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "KrakenManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "KrakenShipKiller",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Language",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "LevelsAndStats",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "LightningStorm",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "LineSize",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Location",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "LodCreator",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Lookat",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "LookatImpactFeathers",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ManageAudioFallofGraphs",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MapViewManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Menu",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MeshCombineStudio.CachedComponents",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MeshCombineStudio.GarbageCollectMesh",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MeshCombineStudio.MeshCombiner",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MeshCombineStudio.MeshCombinerData",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MineField",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Mission",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MissionManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MissionStage",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "MissionStatsWindow",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Mosaur",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "NPC",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "NodCaveScript",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "NodTempleScript",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "OberonsGate",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ObjectListManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "OceanManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "PS5Haptics",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "PatrolOptimizer",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Pause",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Perch",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "PerchData",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "PerchDialogue",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "PerchDisplay",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "PerchLanding",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "PhysicsFLoater",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "PilotDisplay",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "PilotMotion",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "PlatformManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "PlayerData",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "PlayerDataManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "PlayerFiringFX",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "PlayerStats",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "PropEngineSound",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "RaceCourse",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "RaceCourses",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "RagDollManagement",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "RandomizeFace",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "RavingMadMan",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ReflectionCam",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "RenderPerlinNoise",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ResolutionManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ResourceDB",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "RocketGuidance",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Route",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Routepool",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SailsManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ScenarioMaker",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ScreenSpacePosition",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SeaMine",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SeaMineBalloon",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SearchLight",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SetFloorheight",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SetLanternPos",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SetRotation",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SetShaderVector3",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SetShadowMapAsGlobalTexture",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Setting",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Settings",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShaderSoftBody",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShaderSoftParticles",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShamanSequence",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShipControls",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ShopItem",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SideContent",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SimpleRotate",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SmoothFollower",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SmoothLookat",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SpiritFX",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "StatsGauges",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "StormAmbience",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SurfFXDetector",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SwapCreature",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "TentacleSpawnEexplosion",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "TestForFleetDestruction",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "TextPAn",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "TimedPoolReset",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "TreasureContainer",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "TreasureItem",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "TreasureManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "TreasureWorldItem",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "TurretControl",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Undersea",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "VacuumParticles",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "VibrateOnEnable",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Vibration",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "VisualsManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Weapon",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "WorldRoute",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "aimedProjectile",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "animationAudioTrigger",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "argosaudo",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "blendOnAudioData",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "blink",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "breakwall",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "collidermeshreplacer",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "crabtown",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "dynamicItemRow",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "falconhead",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "firstBasilicus",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "generalHealthManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "inventoryItem",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "lfeDampener",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "locationID",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "look",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "mapstats",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "masterOceanHoleSystem",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "materialCloner",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "materialscroller",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "missionProgressShowHide",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "nodbombdestrucible",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "nodbomber",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "photomodeControlsDisplay",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "playPitchedAudio",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "pool",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "preloader",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "pyroship",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "randomizeAnimator",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "resetChildren",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "seaCatch",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "secondaryLoader",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "shipInventory",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "skycamManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "soulsphere",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "splashTrigger",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "surfaceFighter",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "viewableMap",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "wreckdiveAnimator",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.Scripts.DebuggerTabController",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.Settings",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Controls.ConsoleEntryView",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Controls.ConsoleLogControl",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Controls.Data.ActionControl",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Controls.Data.BoolControl",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Controls.Data.EnumControl",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Controls.Data.NumberControl",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Controls.Data.ReadOnlyControl",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Controls.Data.StringControl",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Controls.InfoBlock",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Controls.MultiTapButton",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Controls.PinEntryControl",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Controls.ProfilerEnableControl",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Controls.ProfilerGraphAxisLabel",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Controls.ProfilerGraphControl",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Controls.ProfilerMemoryBlock",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Controls.ProfilerMonoBlock",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Controls.SRTabButton",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.DebugPanelRoot",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.MobileMenuController",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Other.BugReportPopoverRoot",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Other.BugReportSheetController",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Other.CategoryGroup",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Other.ConfigureCanvasFromSettings",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Other.ConsoleTabQuickViewControl",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Other.DebugPanelBackgroundBehaviour",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Other.DockConsoleController",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Other.ErrorNotifier",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Other.HandleManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Other.LoadingSpinnerBehaviour",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Other.PinnedUIRoot",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Other.SRTab",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Other.SRTabController",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Other.ScrollRectPatch",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Other.ScrollSettingsBehaviour",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Other.SetLayerFromSettings",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Other.TriggerRoot",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Other.VersionTextBehaviour",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.ProfilerFPSLabel",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Tabs.BugReportTabController",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Tabs.ConsoleTabController",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Tabs.InfoTabController",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Tabs.OptionsTabController",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRDebugger.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRDebugger.UI.Tabs.ProfilerTabController",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRF.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRF.UI.CopyLayoutElement",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRF.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRF.UI.CopyPreferredSize",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRF.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRF.UI.CopySizeIntoLayoutElement",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRF.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRF.UI.DragHandle",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRF.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRF.UI.FlashGraphic",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRF.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRF.UI.InheritColour",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRF.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRF.UI.Layout.FlowLayoutGroup",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRF.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRF.UI.Layout.VirtualVerticalLayoutGroup",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRF.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRF.UI.LongPressButton",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRF.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRF.UI.ResponsiveEnable",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRF.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRF.UI.ResponsiveResize",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRF.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRF.UI.SRNumberButton",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRF.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRF.UI.SRNumberSpinner",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRF.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRF.UI.SRRetinaScaler",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRF.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRF.UI.SRSpinner",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRF.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRF.UI.SRText",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRF.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRF.UI.ScrollToBottomBehaviour",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRF.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRF.UI.StyleComponent",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRF.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRF.UI.StyleRoot",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRF.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRF.UI.StyleSheet",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "StompyRobot.SRF.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "SRF.UI.Unselectable",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.InputSystem.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.InputSystem.InputActionAsset",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.InputSystem.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.InputSystem.InputSettings",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.InputSystem.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.InputSystem.InputSystemObject",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.InputSystem.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.InputSystem.PlayerInput",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.Postprocessing.Runtime.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.Rendering.PostProcessing.AmbientOcclusion",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.Postprocessing.Runtime.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.Rendering.PostProcessing.AutoExposure",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.Postprocessing.Runtime.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.Rendering.PostProcessing.Bloom",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.Postprocessing.Runtime.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.Rendering.PostProcessing.ChromaticAberration",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.Postprocessing.Runtime.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.Rendering.PostProcessing.ColorGrading",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.Postprocessing.Runtime.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.Rendering.PostProcessing.DepthOfField",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.Postprocessing.Runtime.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.Rendering.PostProcessing.Grain",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.Postprocessing.Runtime.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.Rendering.PostProcessing.LensDistortion",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.Postprocessing.Runtime.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.Rendering.PostProcessing.MotionBlur",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.Postprocessing.Runtime.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.Rendering.PostProcessing.PostProcessLayer",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.Postprocessing.Runtime.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.Rendering.PostProcessing.PostProcessProfile",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.Postprocessing.Runtime.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.Rendering.PostProcessing.PostProcessResources",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.Postprocessing.Runtime.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.Rendering.PostProcessing.PostProcessVolume",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.Postprocessing.Runtime.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.Rendering.PostProcessing.ScreenSpaceReflections",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.Postprocessing.Runtime.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.Rendering.PostProcessing.Vignette",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.EventSystems.EventTrigger",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.Button",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.CanvasScaler",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.ContentSizeFitter",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.GraphicRaycaster",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.GridLayoutGroup",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.HorizontalLayoutGroup",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.Image",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.InputField",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.LayoutElement",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.Mask",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.ScrollRect",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.Scrollbar",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.Shadow",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.Slider",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.Text",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.Toggle",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.VerticalLayoutGroup",
+            "moduleName": "",
+            "usedInScenes": []
+        }
+    ],
+    "allNativeTypes": [
+        {
+            "name": "Object",
+            "module": "Core",
+            "baseName": "",
+            "baseModule": ""
+        },
+        {
+            "name": "AnnotationManager",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AssetDatabaseV1",
+            "module": "AssetDatabase",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AssetMetaData",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AudioBuildInfo",
+            "module": "BuildReportingEditor",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "BuiltAssetBundleInfoSet",
+            "module": "BuildReportingEditor",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Derived",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "SubDerived",
+            "module": "Core",
+            "baseName": "Derived",
+            "baseModule": "Core"
+        },
+        {
+            "name": "EditorBuildSettings",
+            "module": "Editor",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "EditorExtension",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Component",
+            "module": "Core",
+            "baseName": "EditorExtension",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Behaviour",
+            "module": "Core",
+            "baseName": "Component",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Animation",
+            "module": "Animation",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Animator",
+            "module": "Animation",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AudioBehaviour",
+            "module": "Audio",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AudioListener",
+            "module": "Audio",
+            "baseName": "AudioBehaviour",
+            "baseModule": "Audio"
+        },
+        {
+            "name": "AudioSource",
+            "module": "Audio",
+            "baseName": "AudioBehaviour",
+            "baseModule": "Audio"
+        },
+        {
+            "name": "AudioFilter",
+            "module": "Audio",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AudioChorusFilter",
+            "module": "Audio",
+            "baseName": "AudioFilter",
+            "baseModule": "Audio"
+        },
+        {
+            "name": "AudioDistortionFilter",
+            "module": "Audio",
+            "baseName": "AudioFilter",
+            "baseModule": "Audio"
+        },
+        {
+            "name": "AudioEchoFilter",
+            "module": "Audio",
+            "baseName": "AudioFilter",
+            "baseModule": "Audio"
+        },
+        {
+            "name": "AudioHighPassFilter",
+            "module": "Audio",
+            "baseName": "AudioFilter",
+            "baseModule": "Audio"
+        },
+        {
+            "name": "AudioLowPassFilter",
+            "module": "Audio",
+            "baseName": "AudioFilter",
+            "baseModule": "Audio"
+        },
+        {
+            "name": "AudioReverbFilter",
+            "module": "Audio",
+            "baseName": "AudioFilter",
+            "baseModule": "Audio"
+        },
+        {
+            "name": "AudioReverbZone",
+            "module": "Audio",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Camera",
+            "module": "Core",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Canvas",
+            "module": "UI",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "CanvasGroup",
+            "module": "UI",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Cloth",
+            "module": "Cloth",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Collider2D",
+            "module": "Physics2D",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "BoxCollider2D",
+            "module": "Physics2D",
+            "baseName": "Collider2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "CapsuleCollider2D",
+            "module": "Physics2D",
+            "baseName": "Collider2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "CircleCollider2D",
+            "module": "Physics2D",
+            "baseName": "Collider2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "CompositeCollider2D",
+            "module": "Physics2D",
+            "baseName": "Collider2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "EdgeCollider2D",
+            "module": "Physics2D",
+            "baseName": "Collider2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "PolygonCollider2D",
+            "module": "Physics2D",
+            "baseName": "Collider2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "TilemapCollider2D",
+            "module": "Tilemap",
+            "baseName": "Collider2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "ConstantForce",
+            "module": "Physics",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Effector2D",
+            "module": "Physics2D",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AreaEffector2D",
+            "module": "Physics2D",
+            "baseName": "Effector2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "BuoyancyEffector2D",
+            "module": "Physics2D",
+            "baseName": "Effector2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "PlatformEffector2D",
+            "module": "Physics2D",
+            "baseName": "Effector2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "PointEffector2D",
+            "module": "Physics2D",
+            "baseName": "Effector2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "SurfaceEffector2D",
+            "module": "Physics2D",
+            "baseName": "Effector2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "FlareLayer",
+            "module": "Core",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "GridLayout",
+            "module": "Grid",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Grid",
+            "module": "Grid",
+            "baseName": "GridLayout",
+            "baseModule": "Grid"
+        },
+        {
+            "name": "Tilemap",
+            "module": "Tilemap",
+            "baseName": "GridLayout",
+            "baseModule": "Grid"
+        },
+        {
+            "name": "Halo",
+            "module": "Core",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "HaloLayer",
+            "module": "Core",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "IConstraint",
+            "module": "Animation",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AimConstraint",
+            "module": "Animation",
+            "baseName": "IConstraint",
+            "baseModule": "Animation"
+        },
+        {
+            "name": "LookAtConstraint",
+            "module": "Animation",
+            "baseName": "IConstraint",
+            "baseModule": "Animation"
+        },
+        {
+            "name": "ParentConstraint",
+            "module": "Animation",
+            "baseName": "IConstraint",
+            "baseModule": "Animation"
+        },
+        {
+            "name": "PositionConstraint",
+            "module": "Animation",
+            "baseName": "IConstraint",
+            "baseModule": "Animation"
+        },
+        {
+            "name": "RotationConstraint",
+            "module": "Animation",
+            "baseName": "IConstraint",
+            "baseModule": "Animation"
+        },
+        {
+            "name": "ScaleConstraint",
+            "module": "Animation",
+            "baseName": "IConstraint",
+            "baseModule": "Animation"
+        },
+        {
+            "name": "Joint2D",
+            "module": "Physics2D",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AnchoredJoint2D",
+            "module": "Physics2D",
+            "baseName": "Joint2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "DistanceJoint2D",
+            "module": "Physics2D",
+            "baseName": "AnchoredJoint2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "FixedJoint2D",
+            "module": "Physics2D",
+            "baseName": "AnchoredJoint2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "FrictionJoint2D",
+            "module": "Physics2D",
+            "baseName": "AnchoredJoint2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "HingeJoint2D",
+            "module": "Physics2D",
+            "baseName": "AnchoredJoint2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "SliderJoint2D",
+            "module": "Physics2D",
+            "baseName": "AnchoredJoint2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "SpringJoint2D",
+            "module": "Physics2D",
+            "baseName": "AnchoredJoint2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "WheelJoint2D",
+            "module": "Physics2D",
+            "baseName": "AnchoredJoint2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "RelativeJoint2D",
+            "module": "Physics2D",
+            "baseName": "Joint2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "TargetJoint2D",
+            "module": "Physics2D",
+            "baseName": "Joint2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "LensFlare",
+            "module": "Core",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Light",
+            "module": "Core",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "LightProbeGroup",
+            "module": "Core",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "LightProbeProxyVolume",
+            "module": "Core",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "MonoBehaviour",
+            "module": "Core",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "NavMeshAgent",
+            "module": "AI",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "NavMeshObstacle",
+            "module": "AI",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "OffMeshLink",
+            "module": "AI",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "ParticleSystemForceField",
+            "module": "ParticleSystem",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "PhysicsUpdateBehaviour2D",
+            "module": "Physics2D",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "ConstantForce2D",
+            "module": "Physics2D",
+            "baseName": "PhysicsUpdateBehaviour2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "PlayableDirector",
+            "module": "Director",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Projector",
+            "module": "Core",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "ReflectionProbe",
+            "module": "Core",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Skybox",
+            "module": "Core",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "SortingGroup",
+            "module": "Core",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "StreamingController",
+            "module": "Streaming",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Terrain",
+            "module": "Terrain",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "VideoPlayer",
+            "module": "Video",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "VisualEffect",
+            "module": "VFX",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "WindZone",
+            "module": "Wind",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "CanvasRenderer",
+            "module": "UI",
+            "baseName": "Component",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Collider",
+            "module": "Physics",
+            "baseName": "Component",
+            "baseModule": "Core"
+        },
+        {
+            "name": "BoxCollider",
+            "module": "Physics",
+            "baseName": "Collider",
+            "baseModule": "Physics"
+        },
+        {
+            "name": "CapsuleCollider",
+            "module": "Physics",
+            "baseName": "Collider",
+            "baseModule": "Physics"
+        },
+        {
+            "name": "CharacterController",
+            "module": "Physics",
+            "baseName": "Collider",
+            "baseModule": "Physics"
+        },
+        {
+            "name": "MeshCollider",
+            "module": "Physics",
+            "baseName": "Collider",
+            "baseModule": "Physics"
+        },
+        {
+            "name": "SphereCollider",
+            "module": "Physics",
+            "baseName": "Collider",
+            "baseModule": "Physics"
+        },
+        {
+            "name": "TerrainCollider",
+            "module": "TerrainPhysics",
+            "baseName": "Collider",
+            "baseModule": "Physics"
+        },
+        {
+            "name": "WheelCollider",
+            "module": "Vehicles",
+            "baseName": "Collider",
+            "baseModule": "Physics"
+        },
+        {
+            "name": "FakeComponent",
+            "module": "Core",
+            "baseName": "Component",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Joint",
+            "module": "Physics",
+            "baseName": "Component",
+            "baseModule": "Core"
+        },
+        {
+            "name": "CharacterJoint",
+            "module": "Physics",
+            "baseName": "Joint",
+            "baseModule": "Physics"
+        },
+        {
+            "name": "ConfigurableJoint",
+            "module": "Physics",
+            "baseName": "Joint",
+            "baseModule": "Physics"
+        },
+        {
+            "name": "FixedJoint",
+            "module": "Physics",
+            "baseName": "Joint",
+            "baseModule": "Physics"
+        },
+        {
+            "name": "HingeJoint",
+            "module": "Physics",
+            "baseName": "Joint",
+            "baseModule": "Physics"
+        },
+        {
+            "name": "SpringJoint",
+            "module": "Physics",
+            "baseName": "Joint",
+            "baseModule": "Physics"
+        },
+        {
+            "name": "LODGroup",
+            "module": "Core",
+            "baseName": "Component",
+            "baseModule": "Core"
+        },
+        {
+            "name": "MeshFilter",
+            "module": "Core",
+            "baseName": "Component",
+            "baseModule": "Core"
+        },
+        {
+            "name": "OcclusionArea",
+            "module": "Core",
+            "baseName": "Component",
+            "baseModule": "Core"
+        },
+        {
+            "name": "OcclusionPortal",
+            "module": "Core",
+            "baseName": "Component",
+            "baseModule": "Core"
+        },
+        {
+            "name": "ParticleSystem",
+            "module": "ParticleSystem",
+            "baseName": "Component",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Renderer",
+            "module": "Core",
+            "baseName": "Component",
+            "baseModule": "Core"
+        },
+        {
+            "name": "BillboardRenderer",
+            "module": "Core",
+            "baseName": "Renderer",
+            "baseModule": "Core"
+        },
+        {
+            "name": "LineRenderer",
+            "module": "Core",
+            "baseName": "Renderer",
+            "baseModule": "Core"
+        },
+        {
+            "name": "RendererFake",
+            "module": "Core",
+            "baseName": "LineRenderer",
+            "baseModule": "Core"
+        },
+        {
+            "name": "MeshRenderer",
+            "module": "Core",
+            "baseName": "Renderer",
+            "baseModule": "Core"
+        },
+        {
+            "name": "ParticleSystemRenderer",
+            "module": "ParticleSystem",
+            "baseName": "Renderer",
+            "baseModule": "Core"
+        },
+        {
+            "name": "SkinnedMeshRenderer",
+            "module": "Core",
+            "baseName": "Renderer",
+            "baseModule": "Core"
+        },
+        {
+            "name": "SpriteMask",
+            "module": "SpriteMask",
+            "baseName": "Renderer",
+            "baseModule": "Core"
+        },
+        {
+            "name": "SpriteRenderer",
+            "module": "Core",
+            "baseName": "Renderer",
+            "baseModule": "Core"
+        },
+        {
+            "name": "SpriteShapeRenderer",
+            "module": "SpriteShape",
+            "baseName": "Renderer",
+            "baseModule": "Core"
+        },
+        {
+            "name": "TilemapRenderer",
+            "module": "Tilemap",
+            "baseName": "Renderer",
+            "baseModule": "Core"
+        },
+        {
+            "name": "TrailRenderer",
+            "module": "Core",
+            "baseName": "Renderer",
+            "baseModule": "Core"
+        },
+        {
+            "name": "VFXRenderer",
+            "module": "VFX",
+            "baseName": "Renderer",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Rigidbody",
+            "module": "Physics",
+            "baseName": "Component",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Rigidbody2D",
+            "module": "Physics2D",
+            "baseName": "Component",
+            "baseModule": "Core"
+        },
+        {
+            "name": "TextMesh",
+            "module": "TextRendering",
+            "baseName": "Component",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Transform",
+            "module": "Core",
+            "baseName": "Component",
+            "baseModule": "Core"
+        },
+        {
+            "name": "RectTransform",
+            "module": "Core",
+            "baseName": "Transform",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Tree",
+            "module": "Terrain",
+            "baseName": "Component",
+            "baseModule": "Core"
+        },
+        {
+            "name": "WorldAnchor",
+            "module": "VR",
+            "baseName": "Component",
+            "baseModule": "Core"
+        },
+        {
+            "name": "GameObject",
+            "module": "Core",
+            "baseName": "EditorExtension",
+            "baseModule": "Core"
+        },
+        {
+            "name": "NamedObject",
+            "module": "Core",
+            "baseName": "EditorExtension",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AnimatorState",
+            "module": "Editor",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AnimatorStateMachine",
+            "module": "Editor",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AnimatorTransitionBase",
+            "module": "Editor",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AnimatorStateTransition",
+            "module": "Editor",
+            "baseName": "AnimatorTransitionBase",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "AnimatorTransition",
+            "module": "Editor",
+            "baseName": "AnimatorTransitionBase",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "AssetBundle",
+            "module": "AssetBundle",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AssetBundleManifest",
+            "module": "AssetBundle",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AssetImportInProgressProxy",
+            "module": "Editor",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AssetImporter",
+            "module": "Editor",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AssemblyDefinitionImporter",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "AssemblyDefinitionReferenceImporter",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "AudioImporter",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "ComputeShaderImporter",
+            "module": "Core",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "DefaultImporter",
+            "module": "Core",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "IHVImageFormatImporter",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "LibraryAssetImporter",
+            "module": "Core",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "LocalizationImporter",
+            "module": "LocalizationEditor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "ModelImporter",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "FBXImporter",
+            "module": "Core",
+            "baseName": "ModelImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "Mesh3DSImporter",
+            "module": "Core",
+            "baseName": "ModelImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "SketchUpImporter",
+            "module": "Editor",
+            "baseName": "ModelImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "MonoImporter",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "MultiArtifactTestImporter",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "NativeFormatImporter",
+            "module": "Core",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "PackageManifestImporter",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "PluginImporter",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "PrefabImporter",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "RayTracingShaderImporter",
+            "module": "Core",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "ReferencesArtifactGenerator",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "ScriptedImporter",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "ShaderImporter",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "SpeedTreeImporter",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "SubstanceImporter",
+            "module": "SubstanceEditor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "TextScriptImporter",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "TextureImporter",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "TrueTypeFontImporter",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "VideoClipImporter",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "VisualEffectImporter",
+            "module": "VFXEditor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "AssetImporterLog",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AudioMixer",
+            "module": "Audio",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AudioMixerController",
+            "module": "Editor",
+            "baseName": "AudioMixer",
+            "baseModule": "Audio"
+        },
+        {
+            "name": "AudioMixerEffectController",
+            "module": "Editor",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AudioMixerGroup",
+            "module": "Audio",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AudioMixerGroupController",
+            "module": "Editor",
+            "baseName": "AudioMixerGroup",
+            "baseModule": "Audio"
+        },
+        {
+            "name": "AudioMixerSnapshot",
+            "module": "Audio",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AudioMixerSnapshotController",
+            "module": "Editor",
+            "baseName": "AudioMixerSnapshot",
+            "baseModule": "Audio"
+        },
+        {
+            "name": "Avatar",
+            "module": "Animation",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AvatarMask",
+            "module": "Animation",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "BaseAnimationTrack",
+            "module": "Animation",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "NewAnimationTrack",
+            "module": "Animation",
+            "baseName": "BaseAnimationTrack",
+            "baseModule": "Animation"
+        },
+        {
+            "name": "BillboardAsset",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "BuildReport",
+            "module": "Editor",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "CachedSpriteAtlas",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "CachedSpriteAtlasRuntimeData",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "ComputeShader",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "DefaultAsset",
+            "module": "Editor",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "SceneAsset",
+            "module": "Editor",
+            "baseName": "DefaultAsset",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "EditorProjectAccess",
+            "module": "Editor",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Flare",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Font",
+            "module": "TextRendering",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "GameObjectRecorder",
+            "module": "Editor",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "HumanTemplate",
+            "module": "Editor",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "LightProbes",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "LightingDataAsset",
+            "module": "Editor",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "LightingDataAssetParent",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "LightmapParameters",
+            "module": "Editor",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "LocalizationAsset",
+            "module": "Localization",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Material",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "ProceduralMaterial",
+            "module": "Substance",
+            "baseName": "Material",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Mesh",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Motion",
+            "module": "Animation",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AnimationClip",
+            "module": "Animation",
+            "baseName": "Motion",
+            "baseModule": "Animation"
+        },
+        {
+            "name": "PreviewAnimationClip",
+            "module": "Core",
+            "baseName": "AnimationClip",
+            "baseModule": "Animation"
+        },
+        {
+            "name": "BlendTree",
+            "module": "Editor",
+            "baseName": "Motion",
+            "baseModule": "Animation"
+        },
+        {
+            "name": "NavMeshData",
+            "module": "AI",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "OcclusionCullingData",
+            "module": "Umbra",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "PhysicMaterial",
+            "module": "Physics",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "PhysicsMaterial2D",
+            "module": "Physics2D",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "PreloadData",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Preset",
+            "module": "Editor",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "RayTracingShader",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "RuntimeAnimatorController",
+            "module": "Animation",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AnimatorController",
+            "module": "Animation",
+            "baseName": "RuntimeAnimatorController",
+            "baseModule": "Animation"
+        },
+        {
+            "name": "AnimatorOverrideController",
+            "module": "Animation",
+            "baseName": "RuntimeAnimatorController",
+            "baseModule": "Animation"
+        },
+        {
+            "name": "SampleClip",
+            "module": "Audio",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AudioClip",
+            "module": "Audio",
+            "baseName": "SampleClip",
+            "baseModule": "Audio"
+        },
+        {
+            "name": "Shader",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "ShaderVariantCollection",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "SpeedTreeWindAsset",
+            "module": "Terrain",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Sprite",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "SpriteAtlas",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "SubstanceArchive",
+            "module": "Substance",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "TerrainData",
+            "module": "Terrain",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "TerrainLayer",
+            "module": "Terrain",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "TextAsset",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AssemblyDefinitionAsset",
+            "module": "Editor",
+            "baseName": "TextAsset",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AssemblyDefinitionReferenceAsset",
+            "module": "Editor",
+            "baseName": "TextAsset",
+            "baseModule": "Core"
+        },
+        {
+            "name": "CGProgram",
+            "module": "Core",
+            "baseName": "TextAsset",
+            "baseModule": "Core"
+        },
+        {
+            "name": "MonoScript",
+            "module": "Core",
+            "baseName": "TextAsset",
+            "baseModule": "Core"
+        },
+        {
+            "name": "PackageManifest",
+            "module": "Editor",
+            "baseName": "TextAsset",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Texture",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "BaseVideoTexture",
+            "module": "Audio",
+            "baseName": "Texture",
+            "baseModule": "Core"
+        },
+        {
+            "name": "WebCamTexture",
+            "module": "Audio",
+            "baseName": "BaseVideoTexture",
+            "baseModule": "Audio"
+        },
+        {
+            "name": "CubemapArray",
+            "module": "Core",
+            "baseName": "Texture",
+            "baseModule": "Core"
+        },
+        {
+            "name": "LowerResBlitTexture",
+            "module": "Core",
+            "baseName": "Texture",
+            "baseModule": "Core"
+        },
+        {
+            "name": "MovieTexture",
+            "module": "Audio",
+            "baseName": "Texture",
+            "baseModule": "Core"
+        },
+        {
+            "name": "ProceduralTexture",
+            "module": "Substance",
+            "baseName": "Texture",
+            "baseModule": "Core"
+        },
+        {
+            "name": "RenderTexture",
+            "module": "Core",
+            "baseName": "Texture",
+            "baseModule": "Core"
+        },
+        {
+            "name": "CustomRenderTexture",
+            "module": "Core",
+            "baseName": "RenderTexture",
+            "baseModule": "Core"
+        },
+        {
+            "name": "SparseTexture",
+            "module": "Core",
+            "baseName": "Texture",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Texture2D",
+            "module": "Core",
+            "baseName": "Texture",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Cubemap",
+            "module": "Core",
+            "baseName": "Texture2D",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Texture2DArray",
+            "module": "Core",
+            "baseName": "Texture",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Texture3D",
+            "module": "Core",
+            "baseName": "Texture",
+            "baseModule": "Core"
+        },
+        {
+            "name": "VideoClip",
+            "module": "Video",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "VisualEffectObject",
+            "module": "VFX",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "VisualEffectAsset",
+            "module": "VFX",
+            "baseName": "VisualEffectObject",
+            "baseModule": "VFX"
+        },
+        {
+            "name": "VisualEffectSubgraph",
+            "module": "Editor",
+            "baseName": "VisualEffectObject",
+            "baseModule": "VFX"
+        },
+        {
+            "name": "VisualEffectSubgraphBlock",
+            "module": "Editor",
+            "baseName": "VisualEffectSubgraph",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "VisualEffectSubgraphOperator",
+            "module": "Editor",
+            "baseName": "VisualEffectSubgraph",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "VisualEffectResource",
+            "module": "Editor",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "EditorExtensionImpl",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "EditorSettings",
+            "module": "Editor",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "EditorUserBuildSettings",
+            "module": "Editor",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "EditorUserSettings",
+            "module": "Editor",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "EmptyObject",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "GameManager",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "GlobalGameManager",
+            "module": "Core",
+            "baseName": "GameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AudioManager",
+            "module": "Audio",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "BuildSettings",
+            "module": "Core",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "ClusterInputManager",
+            "module": "ClusterInput",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "DelayedCallManager",
+            "module": "Core",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "GraphicsSettings",
+            "module": "Core",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "InputManager",
+            "module": "Core",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "MonoManager",
+            "module": "Core",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "NavMeshProjectSettings",
+            "module": "AI",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Physics2DSettings",
+            "module": "Physics2D",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "PhysicsManager",
+            "module": "Physics",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "PlayerSettings",
+            "module": "Core",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "QualitySettings",
+            "module": "Core",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "ResourceManager",
+            "module": "Core",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "RuntimeInitializeOnLoadManager",
+            "module": "Core",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "ScriptMapper",
+            "module": "Core",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "StreamingManager",
+            "module": "Streaming",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "TagManager",
+            "module": "Core",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "TimeManager",
+            "module": "Core",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "UnityConnectSettings",
+            "module": "UnityConnect",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "VFXManager",
+            "module": "VFX",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "LevelGameManager",
+            "module": "Core",
+            "baseName": "GameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "LightmapSettings",
+            "module": "Core",
+            "baseName": "LevelGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "NavMeshSettings",
+            "module": "AI",
+            "baseName": "LevelGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "OcclusionCullingSettings",
+            "module": "Umbra",
+            "baseName": "LevelGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "RenderSettings",
+            "module": "Core",
+            "baseName": "LevelGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "HierarchyState",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "InspectorExpandedState",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "NativeObjectType",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "PackedAssets",
+            "module": "Editor",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "PlatformModuleSetup",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "PluginBuildInfo",
+            "module": "BuildReportingEditor",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Prefab",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "PrefabInstance",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "PresetManager",
+            "module": "Editor",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "PropertyModificationsTargetTestObject",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "SceneVisibilityState",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "SerializableManagedHost",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "SerializableManagedRefTestClass",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "SiblingDerived",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "SpriteAtlasDatabase",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "TestObjectVectorPairStringBool",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "TestObjectWithSerializedAnimationCurve",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "TestObjectWithSerializedArray",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "TestObjectWithSerializedMapStringBool",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "TestObjectWithSerializedMapStringNonAlignedStruct",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "TestObjectWithSpecialLayoutOne",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "TestObjectWithSpecialLayoutTwo",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Vector3f",
+            "module": "undefined",
+            "baseName": "",
+            "baseModule": ""
+        },
+        {
+            "name": "AudioMixerLiveUpdateBool",
+            "module": "undefined",
+            "baseName": "",
+            "baseModule": ""
+        },
+        {
+            "name": "bool",
+            "module": "undefined",
+            "baseName": "",
+            "baseModule": ""
+        },
+        {
+            "name": "void",
+            "module": "undefined",
+            "baseName": "",
+            "baseModule": ""
+        },
+        {
+            "name": "RootMotionData",
+            "module": "undefined",
+            "baseName": "",
+            "baseModule": ""
+        },
+        {
+            "name": "AudioMixerLiveUpdateFloat",
+            "module": "undefined",
+            "baseName": "",
+            "baseModule": ""
+        },
+        {
+            "name": "MonoObject",
+            "module": "undefined",
+            "baseName": "",
+            "baseModule": ""
+        },
+        {
+            "name": "Collision2D",
+            "module": "undefined",
+            "baseName": "",
+            "baseModule": ""
+        },
+        {
+            "name": "Polygon2D",
+            "module": "undefined",
+            "baseName": "",
+            "baseModule": ""
+        },
+        {
+            "name": "Collision",
+            "module": "undefined",
+            "baseName": "",
+            "baseModule": ""
+        },
+        {
+            "name": "float",
+            "module": "undefined",
+            "baseName": "",
+            "baseModule": ""
+        },
+        {
+            "name": "int",
+            "module": "undefined",
+            "baseName": "",
+            "baseModule": ""
+        }
+    ],
+    "forceIncludeModules": [],
+    "forceExcludeModules": [
+        "Subsystems",
+        "VR",
+        "XR"
+    ]
+}
